@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  27 OCT 2020 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  9 DEC 2020 01:46
 entering extended mode
 **"./MIP Clanok.tex"
 ("MIP Clanok.tex"
@@ -6,8 +6,8 @@ LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03>
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
-File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count175
 \c@section=\count176
@@ -26,36 +26,13 @@ Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-\Gm@cnth=\count183
-\Gm@cntv=\count184
-\c@Gm@tempcnt=\count185
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
-\Gm@dimlist=\toks18
-
-(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
-
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
@@ -71,35 +48,35 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen147
-\Gin@req@width=\dimen148
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
 )
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen149
-\lightrulewidth=\dimen150
-\cmidrulewidth=\dimen151
-\belowrulesep=\dimen152
-\belowbottomsep=\dimen153
-\aboverulesep=\dimen154
-\abovetopsep=\dimen155
-\cmidrulesep=\dimen156
-\cmidrulekern=\dimen157
-\defaultaddspace=\dimen158
-\@cmidla=\count186
-\@cmidlb=\count187
-\@aboverulesep=\dimen159
-\@belowrulesep=\dimen160
-\@thisruleclass=\count188
-\@lastruleclass=\count189
-\@thisrulewidth=\dimen161
+\heavyrulewidth=\dimen141
+\lightrulewidth=\dimen142
+\cmidrulewidth=\dimen143
+\belowrulesep=\dimen144
+\belowbottomsep=\dimen145
+\aboverulesep=\dimen146
+\abovetopsep=\dimen147
+\cmidrulesep=\dimen148
+\cmidrulekern=\dimen149
+\defaultaddspace=\dimen150
+\@cmidla=\count183
+\@cmidlb=\count184
+\@aboverulesep=\dimen151
+\@belowrulesep=\dimen152
+\@thisruleclass=\count185
+\@lastruleclass=\count186
+\@thisrulewidth=\dimen153
 )
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen162
+\col@sep=\dimen154
 \ar@mcellbox=\box47
-\extrarowheight=\dimen163
-\NC@list=\toks19
+\extrarowheight=\dimen155
+\NC@list=\toks18
 \extratabsurround=\skip49
 \backup@length=\skip50
 \ar@cellbox=\box48
@@ -110,12 +87,12 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plpartopsep=\skip52
 \plitemsep=\skip53
 \plparsep=\skip54
-\pl@lab=\toks20
+\pl@lab=\toks19
 )
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks21
-\verbatim@line=\toks22
+\every@verbatim=\toks20
+\verbatim@line=\toks21
 \verbatim@in@stream=\read2
 )
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
@@ -126,44 +103,150 @@ Package: caption 2020/09/12 v3.5b Customizing captions (AR)
 
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
-\captionmargin=\dimen164
-\captionmargin@=\dimen165
-\captionwidth=\dimen166
-\caption@tempdima=\dimen167
-\caption@indent=\dimen168
-\caption@parindent=\dimen169
-\caption@hangindent=\dimen170
+\captionmargin=\dimen156
+\captionmargin@=\dimen157
+\captionwidth=\dimen158
+\caption@tempdima=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count190
-\c@continuedfloat=\count191
+\c@caption@flags=\count187
+\c@continuedfloat=\count188
 )
-\c@KVtest=\count192
+\c@KVtest=\count189
 \sf@farskip=\skip55
-\sf@captopadj=\dimen171
+\sf@captopadj=\dimen163
 \sf@capskip=\skip56
 \sf@nearskip=\skip57
-\c@subfigure=\count193
-\c@subfigure@save=\count194
-\c@lofdepth=\count195
-\c@subtable=\count196
-\c@subtable@save=\count197
-\c@lotdepth=\count198
+\c@subfigure=\count190
+\c@subfigure@save=\count191
+\c@lofdepth=\count192
+\c@subtable=\count193
+\c@subtable@save=\count194
+\c@lotdepth=\count195
 \sf@top=\skip58
 \sf@bottom=\skip59
-) (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+) (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen164
+))
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+)
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks23
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks24
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks25
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/index\index.sty
+Package: index 2004/01/20 v4.2beta Improved index support (dmj)
+\@indexbox=\insert252
+\indexproofstyle=\toks27
+
+
+LaTeX Warning: Command \markboth  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \markright  has changed.
+               Check if current package is valid.
+
+) (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count274
+\U@D=\dimen173
+\l@babelnohyphens=\language79
+
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count275
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/babel-slovak\slovak.ldf
+Language: slovak 2008/07/06 v3.1a Slovak support from the babel system
+Package babel Info: Making ^ an active character on input line 123.
+Package babel Info: Making " an active character on input line 126.
+Package babel Info: Making ' an active character on input line 129.
+\cs@wordlen=\count276
+Package babel Info: Making - an active character on input line 294.
+))
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip60
-\f@nch@O@elh=\skip61
-\f@nch@O@erh=\skip62
-\f@nch@O@olh=\skip63
-\f@nch@O@orh=\skip64
-\f@nch@O@elf=\skip65
-\f@nch@O@erf=\skip66
-\f@nch@O@olf=\skip67
-\f@nch@O@orf=\skip68
-) (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+\f@nch@headwidth=\skip63
+\f@nch@O@elh=\skip64
+\f@nch@O@erh=\skip65
+\f@nch@O@olh=\skip66
+\f@nch@O@orh=\skip67
+\f@nch@O@elf=\skip68
+\f@nch@O@erf=\skip69
+\f@nch@O@olf=\skip70
+\f@nch@O@orf=\skip71
+)
+(C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 
@@ -185,116 +268,86 @@ Package tocbibind Note: Using section or other style headings.
 ) (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip69
-\cftbeforetoctitleskip=\skip70
-\cftaftertoctitleskip=\skip71
-\cftbeforepartskip=\skip72
-\cftpartnumwidth=\skip73
-\cftpartindent=\skip74
-\cftbeforesecskip=\skip75
-\cftsecindent=\skip76
-\cftsecnumwidth=\skip77
-\cftbeforesubsecskip=\skip78
-\cftsubsecindent=\skip79
-\cftsubsecnumwidth=\skip80
-\cftbeforesubsubsecskip=\skip81
-\cftsubsubsecindent=\skip82
-\cftsubsubsecnumwidth=\skip83
-\cftbeforeparaskip=\skip84
-\cftparaindent=\skip85
-\cftparanumwidth=\skip86
-\cftbeforesubparaskip=\skip87
-\cftsubparaindent=\skip88
-\cftsubparanumwidth=\skip89
-\cftbeforeloftitleskip=\skip90
-\cftafterloftitleskip=\skip91
-\cftbeforefigskip=\skip92
-\cftfigindent=\skip93
-\cftfignumwidth=\skip94
-\cftbeforelottitleskip=\skip95
-\cftafterlottitleskip=\skip96
-\cftbeforetabskip=\skip97
-\cfttabindent=\skip98
-\cfttabnumwidth=\skip99
-\cftbeforesubfigskip=\skip100
-\cftsubfigindent=\skip101
-\cftsubfignumwidth=\skip102
-\cftbeforesubtabskip=\skip103
-\cftsubtabindent=\skip104
-\cftsubtabnumwidth=\skip105
+\cftparskip=\skip72
+\cftbeforetoctitleskip=\skip73
+\cftaftertoctitleskip=\skip74
+\cftbeforepartskip=\skip75
+\cftpartnumwidth=\skip76
+\cftpartindent=\skip77
+\cftbeforesecskip=\skip78
+\cftsecindent=\skip79
+\cftsecnumwidth=\skip80
+\cftbeforesubsecskip=\skip81
+\cftsubsecindent=\skip82
+\cftsubsecnumwidth=\skip83
+\cftbeforesubsubsecskip=\skip84
+\cftsubsubsecindent=\skip85
+\cftsubsubsecnumwidth=\skip86
+\cftbeforeparaskip=\skip87
+\cftparaindent=\skip88
+\cftparanumwidth=\skip89
+\cftbeforesubparaskip=\skip90
+\cftsubparaindent=\skip91
+\cftsubparanumwidth=\skip92
+\cftbeforeloftitleskip=\skip93
+\cftafterloftitleskip=\skip94
+\cftbeforefigskip=\skip95
+\cftfigindent=\skip96
+\cftfignumwidth=\skip97
+\cftbeforelottitleskip=\skip98
+\cftafterlottitleskip=\skip99
+\cftbeforetabskip=\skip100
+\cfttabindent=\skip101
+\cfttabnumwidth=\skip102
+\cftbeforesubfigskip=\skip103
+\cftsubfigindent=\skip104
+\cftsubfignumwidth=\skip105
+\cftbeforesubtabskip=\skip106
+\cftsubtabindent=\skip107
+\cftsubtabnumwidth=\skip108
+
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing
+ out. on input line 1156.
+
 )
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count199
-\l__pdf_internal_box=\box49
+\l__kernel_color_stack_int=\count277
+\l__pdf_internal_box=\box51
 ) ("MIP Clanok.aux")
 \openout1 = `"MIP Clanok.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=591.5302pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
-* \topmargin=-7.86334pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=11.0pt
-* \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count266
-\scratchdimen=\dimen172
-\scratchbox=\box50
-\nofMPsegments=\count267
-\nofMParguments=\count268
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count269
-\MPscratchDim=\dimen173
-\MPnumerator=\count270
-\makeMPintoPDFobject=\count271
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count278
+\scratchdimen=\dimen174
+\scratchbox=\box52
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen175
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks29
 )
 (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -323,6 +376,9 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 .sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
+ (C:\Users\samue\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
@@ -337,32 +393,151 @@ G,.JBIG2,.JB2,.eps]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 63.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 63.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 63.
- [1
+
+Overfull \hbox (1.15962pt too wide) in paragraph at lines 34--35
+[]\OT1/cmr/m/n/9 Online vyucovanie sa v sucasnej situaci stalo ne-na-hra-
+di-tel[]nou sucast[]ou
+ []
+
+
+Overfull \hbox (20.06064pt too wide) in paragraph at lines 34--35
+\OT1/cmr/m/n/9 moznost[]ou samostudium. Jed-nou z metod sa-moucenia je aj 
+hra-nie poctacovych
+ []
+
+
+LaTeX Warning: Citation `burgos2007re' on page 1 undefined on input line 40.
+
+
+LaTeX Warning: Citation `seng2014computer' on page 1 undefined on input line 40
+.
+
+
+Overfull \hbox (0.13191pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Hry umoznuju hracom zazit[], vyskusat[], alebo sa nauc
+it[] r^ozne zrucnosti, a zaroven
+ []
+
+
+LaTeX Warning: Citation `kahn1999computer' on page 1 undefined on input line 44
+.
+
+<toontalkmain.png, id=1, 694.595pt x 314.17375pt>
+File: toontalkmain.png Graphic file (type png)
+<use toontalkmain.png>
+Package pdftex.def Info: toontalkmain.png  used on input line 46.
+(pdftex.def)             Requested size: 277.83307pt x 125.66727pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1
 
 {C:/Users/samue/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-("MIP Clanok.aux") ) 
+Overfull \hbox (3.76729pt too wide) in paragraph at lines 54--75
+ [] 
+ []
+
+<toontalkrobot.png, id=14, 373.395pt x 281.05pt>
+File: toontalkrobot.png Graphic file (type png)
+<use toontalkrobot.png>
+Package pdftex.def Info: toontalkrobot.png  used on input line 77.
+(pdftex.def)             Requested size: 186.69704pt x 140.52464pt.
+
+LaTeX Warning: Citation `combefis2016learning' on page 2 undefined on input lin
+e 85.
+
+<lightbotmain.png, id=15, 956.57375pt x 631.35875pt>
+File: lightbotmain.png Graphic file (type png)
+<use lightbotmain.png>
+Package pdftex.def Info: lightbotmain.png  used on input line 87.
+(pdftex.def)             Requested size: 286.97433pt x 189.40909pt.
+[2 <./toontalkmain.png> <./toontalkrobot.png>]
+
+LaTeX Warning: Citation `combefis2016learning' on page 3 undefined on input lin
+e 106.
+
+<leekwarsmain.png, id=22, 870.25125pt x 460.72125pt>
+File: leekwarsmain.png Graphic file (type png)
+<use leekwarsmain.png>
+Package pdftex.def Info: leekwarsmain.png  used on input line 108.
+(pdftex.def)             Requested size: 348.09433pt x 184.28523pt.
+
+Overfull \hbox (3.09433pt too wide) in paragraph at lines 108--110
+ [][] 
+ []
+
+[3 <./lightbotmain.png>]
+<leekwarscode.png, id=28, 712.6625pt x 431.6125pt>
+File: leekwarscode.png Graphic file (type png)
+<use leekwarscode.png>
+Package pdftex.def Info: leekwarscode.png  used on input line 117.
+(pdftex.def)             Requested size: 356.33038pt x 215.80571pt.
+
+Overfull \hbox (11.33038pt too wide) in paragraph at lines 117--119
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `combefis2016learning' on page 4 undefined on input lin
+e 125.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+<codingamemain.png, id=29, 1306.8825pt x 469.755pt>
+File: codingamemain.png Graphic file (type png)
+<use codingamemain.png>
+Package pdftex.def Info: codingamemain.png  used on input line 127.
+(pdftex.def)             Requested size: 365.9246pt x 131.5305pt.
+
+Overfull \hbox (20.9246pt too wide) in paragraph at lines 127--128
+ [] 
+ []
+
+[4 <./leekwarsmain.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+[5 <./leekwarscode.png> <./codingamemain.png>]
+No file "MIP Clanok".bbl.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.07225pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[6] ("MIP Clanok.aux")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4380 strings out of 480257
- 72884 string characters out of 2881437
- 354138 words of memory out of 3000000
- 20874 multiletter control sequences out of 15000+200000
- 540537 words of font info for 47 fonts, out of 3000000 for 9000
+ 5689 strings out of 480257
+ 89414 string characters out of 2881437
+ 394057 words of memory out of 3000000
+ 22139 multiletter control sequences out of 15000+200000
+ 542968 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,6n,70p,1033b,185s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/samue/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><C:/Users/samue/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/samue/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/samue/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb>
-Output written on "MIP Clanok.pdf" (1 page, 54010 bytes).
+ 64i,11n,70p,998b,312s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\samue\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Users/samue/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/samue/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx9.pfb><C:/Users/samue/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/samue/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/samue/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/samue/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/samue/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/samu
+e/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb>
+Output written on "MIP Clanok.pdf" (6 pages, 1706573 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
