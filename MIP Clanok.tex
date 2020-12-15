@@ -27,8 +27,10 @@
 	{\small Slovenská technická univerzita v Bratislave}\\
 	{\small Fakulta informatiky a informačných technológií}\\
 	{\small \texttt{xsujas@stuba.sk}}
-	}
-\date{}
+}
+\date{13.12.2020}
+
+%
 
 \begin{document}
 \maketitle
@@ -39,13 +41,15 @@ Online vyučovanie sa v súčasnej situácií stalo nenahraditeľnou súčasťou
 
 \end{abstract}
 
+%Úvod
 \section{Úvod}
-
-Hry umožňujú hráčom zažiť, vyskúšať, alebo sa naučiť rôzne zručnosti, a zároveň sa pri tom zabávať \cite{burgos2007re}. Pomocou hier môžeme študentom ukázať nové riešenia problémov zábavným, ale zároveň efektívnym spôsobom. Pre študentov, ktorí majú problémy s pochopením niektorých tém v škole, môžu práve počítačové hry poskytnúť nový pohľad na učivo, a v niektorých prípadoch byť aj lepšou alternatívou pre vysvetlenie ťažšieho učiva \cite{seng2014computer}. Aj ak hry nie sú použité pre vzdelávanie v školskom prostredí, môžu sa k nim študenti dostať vo svojom voľnom čase a naučiť sa niečo naviac. V tomto článku sa bližšie pozreme na hry ktoré dokážu ľudí naučiť programovať, riešiť logické problémy, alebo pracovať s umelou inteligenciou; konkrétne hry ToonTalk, LightBot, LeekWars a CodinGame.
+Hry umožňujú hráčom zažiť, vyskúšať, alebo sa naučiť rôzne zručnosti, a zároveň sa pri tom zabávať \cite{burgos2007re}. Pomocou hier môžeme študentom ukázať nové riešenia problémov zábavným, ale zároveň efektívnym spôsobom. Pre študentov, ktorí majú problémy s pochopením niektorých tém v škole, môžu práve počítačové hry poskytnúť nový pohľad na učivo, a v niektorých prípadoch byť aj lepšou alternatívou pre vysvetlenie ťažšieho učiva \cite{seng2014computer}. V tomto článku sa bližšie pozreme na hry ktoré dokážu ľudí naučiť programovať, riešiť logické problémy, alebo pracovať s umelou inteligenciou; konkrétne hry ToonTalk, LightBot, LeekWars a CodinGame.
 
 %ToonTalk
 \section{ToonTalk}
 ToonTalk je programovací jazyk, ktorého kód môžeme vidieť v podobe interaktívneho animovaného sveta \cite{kahn1999computer}. K dispozícií máme prázdne pole a niekoľko objektov, ktoré je možné na pole umiestniť a vytvoriť funkčný program. Animované nie sú len ikony týchto objektov, ale aj samotné činnosti ktoré vykonávajú (Obr. \ref{fig:obr1}). Vďaka tomu môže použivateľ v reálnom čase sledovať ako jeho program pracuje.
+\paragraph{Reakcia na prednášku 4:}
+Raz vidieť je lepšie ako stokrát počuť. Vďaka animovanému prostrediu môže ToonTalk vysvetliť základy programovania aj ľuďom, ktorí nevedia pochopiť ako funguje kód ich programu. Týmto zároveň prepája programovací svet s umeleckým, čím umožňuje vznik nových nápadov.
 \begin{figure}[h]
 \includegraphics[scale=0.4]{toontalkmain}
 \centering
@@ -87,6 +91,8 @@ Prehliadačové prvky & Browser elements & Práca s obsahom stránok \\
 %LightBot
 \section{LightBot}
 LightBot nie je hra, ktorá dokáže hráčom priamo vysvetliť princípy programovania. Jadro tejto hry spočíva v skladaní príkazov do algoritmov s cieľom dostať sa do ďalšej úrovne \cite{combefis2016learning}. V hre ovláda hráč robota, ktorý sa vie pohybovať po políčkach a vykonávať rôzne úlohy. Aby hráč postúpil do ďalšej úrovne, musí pomôcť robotovi zapáliť svetlá na všetkých políčkach zafarbených modrou farbou (Obr. \ref{fig:obr3}). Toto hráč docieli poskladaním postupnosti príkazov do procedúry main, ktoré má robot vykonať aby úspešne dokončil úroveň.
+\paragraph{Reakcia na prednášku 8:}
+LightBot umožňuje hráčom hľadať svoje vlastné riešenia pre zadané problémy, čím zlepšuje ich originalitu a kreatívne myslenie. To môže byť prepojené aj s činnosťami ako napríklad tvorba článkov a prezentácií, pretože bude pre nich ľahšie vyhnúť sa plagiátorstvu.
 \begin{figure}[h]
 \includegraphics[scale=0.3]{lightbotmain}
 \centering
@@ -109,19 +115,19 @@ Na dolnej strane obrazovky sa nachádzaju samotné príkazy, ktoré môže robot
 \section{LeekWars}
 LeekWars je online hra pre viac hráčov, v ktorej hráč bojuje so svojim pórom (ang. leek) proti pórom ostatných hráčov (Obr. \ref{fig:obr4}) \cite{combefis2016learning}. Hráč môže pre svoj pór kupovať rôzne zbrane a čipy, ktoré mu pridávajú nové schopnosti, alebo mu zlepšovať jeho štatistiky (napr. rýchlosť, životy, sila). Bojovaním zvyšuje pór svoju úroveň a stáva sa silnejším. Póru však môže dávať príkazy len kód, ktorý mu hráč napíše pred tým, ako ho pošle do boja.
 \begin{figure}[h]
-\includegraphics[scale=0.4]{leekwarsmain}
+\includegraphics[scale=0.3]{leekwarsmain}
 \centering
 \caption{Pór hráča (vľavo) bojuje proti póru iného hráča (vpravo)}
 \label{fig:obr4}
 \end{figure}
 \begin{figure}[h]
-\includegraphics[scale=0.45]{leekwarscode}
+\includegraphics[scale=0.4]{leekwarscode}
 \centering
 \caption{Základný kód, ktorý hráč dostane na prvej úrovni}
 \label{fig:obr5}
 \end{figure}
 \subsection{Priebeh hry}
-Hráč si najprv vytvorí svoj pór, ktorý začína na prvej úrovni. Ku svojmu póru dostane základný kód (Obr. \ref{fig:obr5}), ktorý môže už od začiatku upraviť v editore kódu. Ďalej má hráč sprístupnený trh (ang. Market), kde si môže nakúpiť nové zbrane a čipy. Herné peniaze aj body skúsenosti potrebné na nákup nových zbraní môže hráč získať v záhrade (ang. Garden), kde bojuje proti iným hráčom. \\
+Hráč si najprv vytvorí svoj pór, ktorý začína na prvej úrovni. Ku svojmu póru dostane základný kód (Obr.~\ref{fig:obr5}), ktorý môže už od začiatku upraviť v editore kódu. Ďalej má hráč sprístupnený trh (ang. Market), kde si môže nakúpiť nové zbrane a čipy. Herné peniaze aj body skúsenosti potrebné na nákup nových zbraní môže hráč získať v záhrade (ang. Garden), kde bojuje proti iným hráčom. \\
 Samotný boj spočíva v striedaní pohybov hráčov po kolách. Boj sa končí keď má jeden z hráčov 0 životov, alebo keď vyprší čas. Po skončení boja dostávajú obaja hráči body skúseností a herné peniaze.
 
 %CodinGame
@@ -135,9 +141,12 @@ CodinGame je online hra, v ktorej je hráčovým cieľom naprogramovať svojho a
 \end{figure}
 \subsection{Priebeh hry}
 Na začiatku si hráč vyberie jednu z dostupných úrovní, ktoré sú rozdelené podľa obtiažnosti. Po spustení sa na obrazovke objaví okno s kódom, okno pre výber jednej z testovacích situácii, a okno so samotnou úrovňou (Obr. \ref{fig:obr6}). Hráčovi je v kóde pomocou komentárov vysvetlené, čo kód robí, a hráč môže ďalej k riešeniu pristupovať akýmkoľvek spôsobom. Na obrazovke vidí hráč svojho agenta a prostredie, v ktorom sa nachádza. Hráč si ďalej môže svoj kód spustiť len v jednej z testovacích situácií, alebo ho môže naraz spustiť vo všetkých. Ak hráč úspešne splní podmienky dokončenia v každej testovacej situácií, úroveň je úspešne dokončená a hráč je odmenený bodmi skúseností.\\
+\paragraph{Reakcia na prednášku 2:}
+Cez stránku CodinGame si môžu použivatelia nájsť prácu vo firmách ako Google a Microsoft, alebo sa zúčastniť rôznych kurzov ktoré ich naučia ako správne vykonávať inžiniersku prácu. Medzi týmito kurzami sa nachádza aj kurz práce s nástrojmi Git a GitHub, alebo rôznymi programovacími jazykmi. Ak sa ich však použivatelia nechcú zúčastniť, stále môžu komunikovať s inými hráčmi CodinGame na rôznych fórach.
 
+
+%Záver
 \section{Záver}
-
 Videohry sa v dnešnej dobe stali pevnou súčasťou novodobej kultúry, a podľa niektorých sú rovnako významné ako televízia, filmy alebo knihy \cite{muratet2009towards}. Aj kvôli tomu môžu hry byť výborným nástrojom pre dištančné štúdium, alebo aj samoštúdium. Vďaka hrám, ktoré boli spomenuté v tomto článku, sa môžu ľudia popri hraní naučiť práve veci potrebné pri programovaní. Tými sú napríklad rôzne algoritmy, logické myslenie, alebo schopnosť riešiť problémy. Nemusia to byť však len hry opísané v tomto článku, ale aj komerčné hry, ktoré často obsahujú náučné prvky \cite{barr2018student}. Práve kvôli týmto dôvodom by mohli počítačové hry byť použité ako alternatíva k učeniu programovania, a pri správnom výbere by mohlo takéto vyučovanie byť oveľa efektívnejšie.
 
 \bibliography{referencie}
